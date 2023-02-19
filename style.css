@@ -1,0 +1,11 @@
+body {
+	background-color: F8f8f8;
+}
+
+section {
+	width: 100wv;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
